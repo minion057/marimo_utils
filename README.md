@@ -13,7 +13,7 @@ Please install the following libraries:
 
 You can install them using pip:
 ```
-pip install numpy pandas scikit-learn matplotlib pycm
+pip install "marimo[lsp]" numpy pandas
 ```
    
 Other necessary information:  
